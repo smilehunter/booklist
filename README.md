@@ -15,4 +15,4 @@ Reading
 Planning to Read
 ------
 * Book about agile
-* Book about TDD
+* Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better
