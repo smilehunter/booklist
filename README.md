@@ -2,6 +2,10 @@ Booklist
 ======
 Finished
 ------
+* Code Complete: A Practical Handbook of Software Construction, Second Edition
+* Headfirst Design Patterns
+* Effective C++: 55 Specific Ways to Improve Your Programs and Designs
+* The Pragmatic Programmer: From Journeyman to Master
 * Apprenticeship Patterns: Guidance for the Aspiring Software Craftman
 
 Reading
