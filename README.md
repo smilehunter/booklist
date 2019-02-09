@@ -2,6 +2,7 @@ Booklist
 ======
 Finished
 ------
+* C++ Primer Plus (5th Edition)
 * Code Complete: A Practical Handbook of Software Construction, Second Edition
 * Headfirst Design Patterns
 * Effective C++: 55 Specific Ways to Improve Your Programs and Designs
