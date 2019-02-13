@@ -11,9 +11,8 @@ Finished
 
 Reading
 ------
-* The Complete Software Developer's Career Guide: How to Learn Your Next Programming Language, Ace Your Programming Interview, and Land The Coding Job Of Your Dreams (30%)
+* The Complete Software Developer's Career Guide: How to Learn Your Next Programming Language, Ace Your Programming Interview, and Land The Coding Job Of Your Dreams (36%)
 
 Planning to Read
 ------
-* Book about agile
 * Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better
