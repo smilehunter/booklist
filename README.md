@@ -11,7 +11,7 @@ Finished
 
 Reading
 ------
-* The Complete Software Developer's Career Guide: How to Learn Your Next Programming Language, Ace Your Programming Interview, and Land The Coding Job Of Your Dreams (43%)
+* The Complete Software Developer's Career Guide: How to Learn Your Next Programming Language, Ace Your Programming Interview, and Land The Coding Job Of Your Dreams (47%)
 
 Planning to Read
 ------
