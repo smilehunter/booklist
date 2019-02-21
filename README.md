@@ -8,10 +8,10 @@ Finished
 * Effective C++: 55 Specific Ways to Improve Your Programs and Designs
 * The Pragmatic Programmer: From Journeyman to Master
 * Apprenticeship Patterns: Guidance for the Aspiring Software Craftman
+* The Complete Software Developer's Career Guide: How to Learn Your Next Programming Language, Ace Your Programming Interview, and Land The Coding Job Of Your Dreams
 
 Reading
 ------
-* The Complete Software Developer's Career Guide: How to Learn Your Next Programming Language, Ace Your Programming Interview, and Land The Coding Job Of Your Dreams (70%)
 
 Planning to Read
 ------
