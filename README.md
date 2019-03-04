@@ -12,7 +12,7 @@ Finished
 
 Reading
 ------
-* Effective C++ (14%)
+* Effective C++ (21%)
 
 Planning to Read
 ------
