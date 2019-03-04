@@ -17,3 +17,4 @@ Reading
 Planning to Read
 ------
 * Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better
+* Effective Modern C++
