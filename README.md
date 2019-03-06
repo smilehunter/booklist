@@ -12,9 +12,9 @@ Finished
 
 Reading
 ------
+* Effective Modern C++ (7%)
 * Effective C++ (33%)
 
 Planning to Read
 ------
 * Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better
-* Effective Modern C++
