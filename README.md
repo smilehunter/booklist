@@ -12,7 +12,7 @@ Finished
 
 Reading
 ------
-* Effective Modern C++ (30%)
+* Effective Modern C++ (35%)
 * Effective C++ (33%)
 
 Planning to Read
